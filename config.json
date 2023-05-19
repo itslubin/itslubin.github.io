@@ -1,0 +1,14 @@
+[
+ {
+  "username": "itslubin",
+  "name": "Lubin",
+  "userimg": "https://avatars.githubusercontent.com/u/103584565?v=4",
+  "sort": "created",
+  "order": "asc",
+  "includeFork": true,
+  "theme": "light.css",
+  "types": [
+   "all"
+  ]
+ }
+]
